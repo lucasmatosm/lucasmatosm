@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hi there! 😁
+My name is Lucas Matos. I've been working as Front-End and Developer since 2016 and currently I'm Senior developer at Accenture do Brasil. I am passionate about web development, always looking to learn new technologies and deepen my skills.
+
+In my free time I like  to watch movies (🎞️) and series (📺),listen to music (🎵) and talk about technology with my friends.
