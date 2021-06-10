@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-My name is Lucas Matos. I've been working as Front-End and Developer since 2016 and currently I'm Senior developer at Accenture do Brasil working with Ionic mobile applications. I am passionate about web development, always looking to learn new technologies and deepen my skills. I love helping people with their career development, whether with technical skills or non-technical skills 🚀🚀🚀
+My name is Lucas Matos. I've been working as Front-End and Developer since 2016 and currently I'm specialist developer at Accenture do Brasil working with Ionic mobile applications. I am passionate about web development, always looking to learn new technologies and deepen my skills. I love helping people with their career development, whether with technical skills or non-technical skills 🚀🚀🚀
 
 In my free time I like  to watch movies (🎞️) and series (📺),listen to music (🎵) and talk about technology with my friends.
 
